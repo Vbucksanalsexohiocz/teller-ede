@@ -1,0 +1,37 @@
+body {
+    
+    background-size: cover;
+    font-weight: 500;
+    
+    
+}
+
+p {
+    
+    
+    
+}
+
+main, aside {
+  background-color: rgba(220, 200, 170, 90%);
+  border-radius: 20px;
+  margin: 20px 0;
+}
+
+main, article, footer {
+  padding: 30px;
+}
+
+h1, h2 {
+    
+}
+
+ul {
+  list-style-image: url('physics_icon.png');
+}
+
+#tellerkep {
+    float: right;
+    margin: 20px;
+    
+}
